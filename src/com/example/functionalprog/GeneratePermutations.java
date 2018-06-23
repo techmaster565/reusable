@@ -3,6 +3,10 @@ package com.example.functionalprog;
 import java.util.HashSet;
 import java.util.Set;
 
+/* Given a String ABCD, has to print all permutations of the characters
+like 
+ABCD BADC, BCDA, DCBA, DABC, CADB, DACB, CBDA, DBCA, ACBD, ADBC ..
+*/
 public class GeneratePermutations {
 
 	public static void main(String args[]){
